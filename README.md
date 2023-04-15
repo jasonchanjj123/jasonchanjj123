@@ -1,5 +1,5 @@
 # 💫 About Me:
-\A Hong Kongh high schol student interested in learning and coding
+A Hong Kongh high schol student interested in learning and coding
 
 
 # 💻 Tech Stack:
