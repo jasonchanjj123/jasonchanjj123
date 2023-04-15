@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A Hong Kongh high schol student.Interested in learning and coding</h3>
+<h3 align="center">A Hong Kongh high schol student interested in learning and coding</h3>
 
 - 🔭 I’m currently working on [Simple Info Hk](https://simpleinfohk.me)
 
